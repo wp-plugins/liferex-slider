@@ -60,13 +60,10 @@ caption="" to add caption to slide like this
 
 `[nivoslides image_link='' alt='' caption='']`
 
-= Here is a complete example of Nivo Slider with ten image and dark theme. =
+= Here is a complete example of LifeRex Slider with ten image and dark theme. =
 
 `[nivo-slider id='unique-2' theme='dark'][nivoslides image_link='http://lorempixel.com/400/200/sports/1' caption='This is caption one'][nivoslides image_link='http://lorempixel.com/400/200/sports/2' caption='This is caption two'][nivoslides image_link='http://lorempixel.com/400/200/sports/3' caption='This is caption three'][nivoslides image_link='http://lorempixel.com/400/200/sports/4' caption='This is caption four'][nivoslides image_link='http://lorempixel.com/400/200/sports/5' caption='This is caption five'][nivoslides image_link='http://lorempixel.com/400/200/sports/6' caption='This is caption six'][nivoslides image_link='http://lorempixel.com/400/200/sports/7' caption='This is caption seven'][nivoslides image_link='http://lorempixel.com/400/200/sports/8' caption='This is caption eight'][/nivo-slider]`
 
-= Still need help? Watch this Youtube Video. =
-
-https://www.youtube.com/watch?v=ZfuD0Phpz-4
 
 = Features =
 
@@ -83,31 +80,23 @@ Installing the plugins is just like installing other WordPress plugins. If you d
 = Install by Search =
 
 * From your WordPress dashboard, choose 'Add New' under the 'Plugins' category.
-* Search for 'Nivo Image Slider' a plugin will come called 'Nivo Image Slider by Sayful Islam' and Click 'Install Now' and confirm your installation by clicking 'ok'
+* Search for 'LifeRex Image Slider' a plugin will come called 'liferex Image Slider by Kamruzzaman jibon' and Click 'Install Now' and confirm your installation by clicking 'ok'
 * The plugin will download and install. Just click 'Activate Plugin' to activate it.
 
 = Install by ZIP File =
 
 * From your WordPress dashboard, choose 'Add New' under the 'Plugins' category.
 * Select 'Upload' from the set of links at the top of the page (the second link)
-* From here, browse for the zip file included in your plugin titled 'nivo-image-slider.zip' and click the 'Install Now' button
+* From here, browse for the zip file included in your plugin titled 'liferex-image-slider.zip' and click the 'Install Now' button
 * Once installation is complete, activate the plugin to enable its features.
 
 = Install by FTP =
 
-* Find the directory titles 'nivo-image-slider' and upload it and all files within to the plugins directory of your WordPress install (WORDPRESS-DIRECTORY/wp-content/plugins/) [e.g. www.yourdomain.com/wp-content/plugins/]
+* Find the directory titles 'liferex-image-slider' and upload it and all files within to the plugins directory of your WordPress install (WORDPRESS-DIRECTORY/wp-content/plugins/) [e.g. www.yourdomain.com/wp-content/plugins/]
 * From your WordPress dashboard, choose 'Installed Plugins' option under the 'Plugins' category
 * Locate the newly added plugin and click on the 'Activate' link to enable its features.
 
 
-== Frequently Asked Questions ==
-Do you have questions or issues with Nivo Images Slider? [Ask for support here.](http://wordpress.org/support/plugin/nivo-image-slider)
-
-== Screenshots ==
-
-1. Screenshot of Nivo Images Slider Custom Post.
-2. Screenshot of Nivo Images Slider Custom Post Catagory.
-3. Screenshot of Nivo Images Slider on Page.
 
 == Changelog ==
 
@@ -142,11 +131,11 @@ Do you have questions or issues with Nivo Images Slider? [Ask for support here.]
 
 == CREDIT ==
 
-1.This plugin was developed by [Sayful Islam](http://sayful.net)
+1.This plugin was developed by [Md. Kamruzzaman](http://smkjiboncse2nd89@gmail.com)
 
 == CONTACT ==
 
-[Sayful Islam](http://sayful1.wordpress.com/100-2/)
+[Md. Kamruzzaman Jibon](http://smkjiboncse2nd89@gmail.com)
 
 == Upgrade Notice ==
 
